@@ -40,7 +40,7 @@ In a seperate terminal run:
 `$ truffle migrate --reset`
 
 ### 6. Fund Accounts
-`$ truffle exec .\scripts\1_fund.js`
+`$ truffle exec ./scripts/1_fund.js`
 
 ### 6. Create Uniswap Pool
-`$ truffle exec .\scripts\2_create_pool.js`
+`$ truffle exec ./scripts/2_create_pool.js`
